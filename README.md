@@ -4,9 +4,9 @@ From the book Headfirst Javascript.
 
 handler.html -> reveals handler
 
-![handler image](media/handler.png)
+![handler image](handler.png)
 
 imageGuess.html -> Click a blurred image to reveal true image
 
-![blur image](media/blur.png)
-![blur image 2](media/blur2.png)
+![blur image](blur.png)
+![blur image 2](blur2.png)
