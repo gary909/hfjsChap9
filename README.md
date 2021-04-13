@@ -14,3 +14,7 @@ imageGuess.html -> Click a blurred image to reveal true image
 mapCoOrds.html -> Reveal map co-ordinates using onmousemove property
 
 ![map image](mapEx.png)
+
+timerHandler.html -> trigger an alert after 5 seconds using a timer
+
+![timer image](timer.png)
