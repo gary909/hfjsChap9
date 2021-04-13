@@ -18,3 +18,7 @@ mapCoOrds.html -> Reveal map co-ordinates using onmousemove property
 timerHandler.html -> trigger an alert after 5 seconds using a timer
 
 ![timer image](timer.png)
+
+clock.html -> using the setInterval timer
+
+![setInterval image](tick.png)
