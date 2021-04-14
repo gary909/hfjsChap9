@@ -22,3 +22,7 @@ timerHandler.html -> trigger an alert after 5 seconds using a timer
 clock.html -> using the setInterval timer
 
 ![setInterval image](tick.png)
+
+resize.html -> handler prints text when window is resized
+
+![resize image](resize.png)
